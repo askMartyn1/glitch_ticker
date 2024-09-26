@@ -19,5 +19,5 @@ Implemented using the  [Galacitc Unicorn](https://shop.pimoroni.com/products/spa
 - Once thats done copy the **main.py** over to the **Galacitc Unicorn**. 
 - Next you'll need to add your wifi credentials into the WIFI_CONFIG.py file and copy those over to the 
 - Test the **main.py** by pressing the run button (big green play button) while the **Galactic Unicorn** is still connected to **thonny**. You should see the word Ready flash on the screen and it'll make some electronic noises while it does it.
-
-[![glitch ticker](docs/screen_shot.jpg)](https://www.youtube.com/shorts/jGsIZd-64m4)
+https://www.youtube.com/shorts/2it0MWg-qsI
+[![glitch ticker](docs/screen_shot.jpg)](https://www.youtube.com/shorts/2it0MWg-qsI)
