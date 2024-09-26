@@ -101,7 +101,7 @@ def index(request):
 
 @APP.route('/message/<message>')
 def index(request, message):
-    prin(f'recieved message {message}')
+    print(f'recieved message {message}')
     glitch_screen_write(URL.decode(message))
     print(message)
     return message
